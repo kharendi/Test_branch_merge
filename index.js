@@ -1,3 +1,4 @@
 var i=2;
 var j=1;
-alert(i * j);
+var z=3;
+alert(i * z);
